@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras-b4" alt="paras-b4" /></a> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **AWS**
 
-- 🤝 I’m looking for help with **Docker**
+- 🤝 I’m looking for help with **AWS**
 
 - 💬 Ask me about **Backend**
 
