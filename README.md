@@ -84,4 +84,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras-b4" alt="paras-b4" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paras-b4&show_icons=true&locale=en&layout=compact" alt="paras-b4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paras-b4&show_icons=true&locale=en" alt="paras-b4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paras-b4&show_icons=true&locale=en" alt="paras-b4" />
+
+### Snake Game Animation:
+![Snake Game Animation](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format%2Ccompress&gif-q=60&format=webm)
+</p>
