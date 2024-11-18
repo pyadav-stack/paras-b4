@@ -1,4 +1,8 @@
-![Welcome Banner](https://github.com/paras-b4/paras-b4/blob/main/8c321810094b719e3ecb44d7b402e5db.gif)
+<!--[Welcome Banner](https://i.pinimg.com/originals/8c/32/18/8c321810094b719e3ecb44d7b402e5db.gif)-->
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8c/32/18/8c321810094b719e3ecb44d7b402e5db.gif" alt="Welcome Banner" style="width: 100%; height: auto;" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Paras Yadav</h1>
 <h3 align="center">A passionate Backend developer </h3>
