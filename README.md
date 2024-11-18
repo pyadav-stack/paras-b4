@@ -1,22 +1,27 @@
+![Welcome Banner](https://github.com/paras-b4/paras-b4/blob/main/8c321810094b719e3ecb44d7b402e5db.gif)
+
 <h1 align="center">Hi 👋, I'm Paras Yadav</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer </h3>
 <img align="right" alt="coding width="400" src="https://th.bing.com/th/id/OIP.zVnWJtyGOX_kUIDm6ccCfQHaEq?rs=1&pid=ImgDetMain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-b4&label=Profile%20views&color=0e75b6&style=flat" alt="paras-b4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras-b4" alt="paras-b4" /></a> </p>
+<p align="left"></p>
 
-- 🌱 I’m currently learning **KUBERNETES**
+- 🌱 I’m currently learning **KUBERNETES**<br>
 
-- 🤝 I’m looking for help with **DOCKER**
+- 🤝 I’m looking for help with **DOCKER**<br>
 
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **Backend**<br>
 
-- 📫 How to reach me **py080398@gmail.com**
+- 📫 How to reach me **py080398@gmail.com**<br>
 
-- ⚡ Fun fact **Highly Adaptable**
+- ⚡ Fun fact **Highly Adaptable**<br>
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
