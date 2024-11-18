@@ -87,5 +87,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paras-b4&show_icons=true&locale=en" alt="paras-b4" />
 
 
-![Snake Game Animation](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format%2Ccompress&gif-q=60&format=webm)
+
+
 </p>
