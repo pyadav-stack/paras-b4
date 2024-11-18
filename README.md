@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Paras Yadav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<img align="right" alt="coding width="400" src="https://th.bing.com/th/id/OIP.zVnWJtyGOX_kUIDm6ccCfQHaEq?rs=1&pid=ImgDetMain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-b4&label=Profile%20views&color=0e75b6&style=flat" alt="paras-b4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras-b4" alt="paras-b4" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **KUBERNETES**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with **DOCKER**
 
 - 💬 Ask me about **Backend**
 
